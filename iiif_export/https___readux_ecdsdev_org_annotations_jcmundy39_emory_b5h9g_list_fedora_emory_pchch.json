@@ -1,0 +1,6 @@
+{
+    "@id": "https://readux.ecdsdev.org/annotations/jcmundy39/emory:b5h9g/list/fedora:emory:pchch",
+    "resources": [],
+    "@type": "sc:AnnotationList",
+    "@context": "http://iiif.io/api/presentation/2/context.json"
+}
