@@ -83,6 +83,11 @@
                             "@type": "sc:AnnotationList"
                         },
                         {
+                            "label": "Annotations by jcmundy39",
+                            "@id": "https://readux.ecdsdev.org/annotations/jcmundy39/emory:b5h9g/list/fedora:emory:pchch",
+                            "@type": "sc:AnnotationList"
+                        },
+                        {
                             "label": "Annotations by sarepal-github",
                             "@id": "https://readux.ecdsdev.org/annotations/sarepal-github/emory:b5h9g/list/fedora:emory:pchch",
                             "@type": "sc:AnnotationList"
@@ -227,7 +232,7 @@
         },
         {
             "label": "Export Date",
-            "value": "2020-03-04T19:16:19.168"
+            "value": "2020-03-04T19:25:28.796"
         }
     ],
     "related": [
